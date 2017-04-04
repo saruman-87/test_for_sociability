@@ -9,7 +9,7 @@
 ![](http://tenantsportal.ru/mega/css/images/Test-paper.png)Инструкция:
 
 	    gem install colorize
-        ruby magic_ball.rb
+        ruby main.rb
 
 
 ----------
