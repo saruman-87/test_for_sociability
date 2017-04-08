@@ -1,5 +1,5 @@
-require_relative "test.rb"
-require_relative "result_printer.rb"
+require_relative "lib/test.rb"
+require_relative "lib/result_printer.rb"
 
 #Спросим пользователя желает  ли он пройти тест
 puts "Здравствуйте!"
